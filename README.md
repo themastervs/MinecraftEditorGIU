@@ -3,9 +3,10 @@
 A client-side **Fabric** mod for **Minecraft 1.21.11** that lets you set custom wallpapers (images or **mp4 video**) on the main menu, the multiplayer screen and the connecting screen, restyles the buttons to match the wallpaper, and gives you a menu to turn individual GUI elements on or off (logo, splash text, other mods' buttons, and more).
 
 <!-- Add screenshots here: docs/menu.png, docs/elements.png -->
+<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 08 - 15 46 21 36" src="https://github.com/user-attachments/assets/5e171ea1-974b-4d85-a6b3-f5deecc0ff30" />
 <img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 08 - 15 46 36 12" src="https://github.com/user-attachments/assets/88f5ea5b-2d8a-489e-a7af-0fbaacb4e4a2" />
 <img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 08 - 15 46 40 19" src="https://github.com/user-attachments/assets/dde9b6d8-2d09-46f6-8cfb-d082c3783ea7" />
-<img width="1920" height="1080" alt="Minecraft Screenshot 2026 11 08 - 15 46 21 36" src="https://github.com/user-attachments/assets/5e171ea1-974b-4d85-a6b3-f5deecc0ff30" />
+
 
 
 ## Features
